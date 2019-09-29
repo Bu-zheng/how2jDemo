@@ -49,5 +49,7 @@ public class Test {
         Buzheng buzheng = new Buzheng("ss","ss");
         List<String> objects = new ArrayList<>();
         System.out.println(objects.size());
+        System.out.println(objects.size());
+        System.out.println(objects.size());
     }
 }
