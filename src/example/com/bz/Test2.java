@@ -31,10 +31,8 @@ public class Test2 {
     //        String dateString = formatter.format(currentTime);
     //        System.out.println(dateString);
     Map<String, Integer> map = new HashMap<>();
-    map.put("1",1);
-    map.put("1",1);
-    map.put("1",233);
-    map.put("1",222);
+    map.put("1",23);
+    map.pu("1",343);
     map.put("1",222);
         System.out.println(map.get("1"));
 
