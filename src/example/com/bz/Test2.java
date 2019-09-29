@@ -33,9 +33,7 @@ public class Test2 {
     Map<String, Integer> map = new HashMap<>();
     map.put("1",1);
     map.put("1",1);
-    map.put("1",1);
-    map.put("1",1);
-    map.put("1",222);
+    map.put("1",233);
     map.put("1",222);
     map.put("1",222);
         System.out.println(map.get("1"));
